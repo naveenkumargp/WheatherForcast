@@ -14,7 +14,7 @@ Make sure that following prerequisites are complated from end user side
 1. ### Maven 3.9.X
 2. ### Java 17
 3. ### Account Creation in openweathermap web site
-## Steps Execute Application Buils
+## Steps Execute Application Build
 1. Clone the project using `git clone`
 2. Go to the directory using cmd `cd WheatherForcast/weather-forecast`
 3. Excute maven build cmd `mvn clean install`, As part of this build it runs unit tests and inetgrations tests and creates Uber excutable jar file.
