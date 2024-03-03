@@ -13,7 +13,7 @@ Displays weather forecast for the given zip code
 Make sure that following prerequisites are complated from end user side 
 1. ### Maven 3.9.X
 2. ### Java 17
-3. ### Account Creation in openweathermap web site
+3. ### Account Creation in openweathermap web site(Its optional for end users)
 ## Steps Execute Application Build
 1. Clone the project using `git clone`
 2. Go to the directory using cmd `cd WheatherForcast/weather-forecast`
